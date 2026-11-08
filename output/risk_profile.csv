@@ -1,0 +1,3 @@
+Order_Risk,label,order_count,median_total_price,median_total_freight,median_total_weight_g,median_estimated_delivery_days
+0,Đã giao (0),96478,86.57499999999999,17.17,750.0,24.0
+1,Không hoàn tất (1),467,90.0,15.73,700.0,22.0

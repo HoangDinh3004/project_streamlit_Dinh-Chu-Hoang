@@ -1,0 +1,4 @@
+order_status,order_count,with_items,with_payments,item_coverage_pct,payment_coverage_pct
+canceled,625,461,625,73.76,100.0
+delivered,96478,96478,96477,100.0,99.99896349426812
+unavailable,609,6,609,0.9852216748768473,100.0
